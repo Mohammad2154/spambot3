@@ -47,7 +47,7 @@ if (message.content === prefix+'Spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**اللهم صلي على سيدنا محمد** :flag_ps:`)
+        message.channel.send(`**سبحان لله. الحمد الله. لا اله الى الله. الله أكبر**`)
           .then(m => {
             count++;
           })
@@ -98,7 +98,7 @@ if (message.content === prefix+'Spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**لا اله الى أنت سبحانك اني كنت من الظالمين <3** :flag_ps:`)
+        message.channel.send(`**لآاله الى الله وحده لا شريك له**`)
           .then(m => {
             count++;
           })
